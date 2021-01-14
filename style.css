@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+  
+width:100%;
+background: #FFFBF0;
+padding-bottom: 60px;
+margin-bottom: 40px;
+}
+.bar .row{
+    padding-top: 30px;
+}
+.nav-item{
+    padding-right: 30px;
+    
+}
+.nav-item a{
+    color:#3c3c3c !important;
+    font-size: 20px;
+}
+.banner-text{
+    padding-top: 100px; 
+}
+.banner-title{
+    font-family:Bebas Neue;
+    font-weight:700;
+    font-size:38px;
+    color: #FABE4C;
+}
+.banner-winter{
+    font-family:Bebas Neue;
+    font-weight:700;
+    font-size:38px;
+    color: #413960;;
+}
+.banner-des{
+    padding-top: 10px;
+    color: #3E3E3E;
+}
+.main-button{
+    width: 170px;
+    height: 60px;
+    background:#669900;
+    border-radius: 10px;
+    border: 1px solid #669900;
+    color: white;
+}
+.fa-shopping-cart:before {
+    padding-right: 10px;
+}
+.women{
+    width: 100%;
+    margin-bottom: 60px;
+}
+.women-title{
+    font-family: Bebas Neue;
+    font-weight: 700;
+    font-size: 30px;
+    color: #363958;
+    margin-bottom: 30px;
+}
+.women-jacket img{
+    width: 250px;
+    height: 270px;
+}
+.women-jacket{
+    width: 280px;
+    height: 270px;
+    background-color: #E5E5E5;
+}
+.jacket-title{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+    color: #363958;
+    padding-top: 15px;
+}
+.jacket-des{
+    font-family: Roboto;
+    font-size: 14px;
+    color: #3E3E3E;
+}
+.money{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FABE4C;
+}
+.jacket-button{
+    padding: 12px 20px;
+    background:#669900;
+    border-radius: 10px;
+    border: 1px solid #669900;
+    color: white;
+}
+.jacket{
+    height: 480px;
+    width: 315px;
+    box-shadow: 0px 0px 5px -3px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+.shop{
+    width: 100%;
+    margin-bottom: 60px;
+}
+.shop-shadow{
+    box-shadow: 0px 0px 5px -3px;
+    margin-bottom:20px; 
+}
+.contact-us{
+    text-align: center;
+}
+.contact-us h5{
+    font-family:Bebas Neue;
+    text-transform: uppercase;
+    font-size: 46px;
+    font-weight: 400;
+    color: #212121;
+}
+.contact-us p{
+    font-weight: 400;
+    font-size: 15px;
+    color: #86878b;
+    margin-top: 24px;
+}
+.contact-line{
+    height: 3px;
+    width: 85px;
+    background: #ff8b38;
+    margin: 30px auto;
+}
+.conatct-form .form-control{
+    border-radius: 0;
+    margin-bottom: 20px;
+   
+}
+.message-area .form-control{
+  height: 155px;
+}
+.contact{
+    margin-bottom: 80px;
+}
+.contact-btn {
+    font-weight: 600;
+    background: #ff8b38;
+    color: #fff;
+    font-size: 16px;
+    padding: 8px 20px;
+    border: 2px solid #ff8b38;
+    border-radius: 3px;
+    margin-top: 30px;
+}
+.button{
+    text-align: center;
+}
