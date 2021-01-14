@@ -3,18 +3,16 @@
     padding: 0;
 }
 header{
-  
-width:100%;
-background: #FFFBF0;
-padding-bottom: 60px;
-margin-bottom: 40px;
+    width:100%;
+    background: #FFFBF0;
+    padding-bottom: 60px;
+    margin-bottom:40px;
 }
 .bar .row{
     padding-top: 30px;
 }
 .nav-item{
     padding-right: 30px;
-    
 }
 .nav-item a{
     color:#3c3c3c !important;
